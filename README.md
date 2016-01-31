@@ -1,3 +1,4 @@
+![TeresinaHC Logo](/thc_logo.png)
 # Teresina Hacker Clube #
 Projeto de construção e manutenção de um hackerspace.
 
