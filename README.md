@@ -7,9 +7,9 @@ Este repositório serve para gerenciarmos (por meio do cadastro e acompanhamento
 
 ## Bons hábitos para este repositório. ##
 
-Vamos usar as issues para documentar os encontros, desde o agendamento e resumo do que foi discutido nas reuniões, encontros.
+Vamos usar as issues para documentar os encontros, desde o agendamento e resumo do que foi discutido em cada encontro.
 
-Passos:
+Dicas:
 
 1. Encontros semanais: Criar uma issue com a tag encontros. Fazer um resumo sobre a reunião com as fotos do dia. Exemplo: https://github.com/teresinahc/hackerclube/issues/2
 2. Reunião: Criar uma issue com a tag reunião, dizendo de forma sucinta qual o objetivo da reunião. Exemplo: https://github.com/teresinahc/hackerclube/issues/5
