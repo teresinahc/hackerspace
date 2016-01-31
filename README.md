@@ -1,5 +1,4 @@
-![TeresinaHC Logo](/thc_logo.png)
-Format: ![Alt Text](url)
+![TeresinaHC Logo](https://raw.githubusercontent.com/teresinahc/hackerclube/add-logo-thc-readme/thc_logo.svg)
 
 # Teresina Hacker Clube #
 Projeto de construção e manutenção de um hackerspace.
