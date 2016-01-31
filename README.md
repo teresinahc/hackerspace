@@ -1,4 +1,4 @@
-![TeresinaHC Logo](https://raw.githubusercontent.com/teresinahc/hackerclube/add-logo-thc-readme/thc_logo.svg)
+![TeresinaHC Logo](https://raw.githubusercontent.com/teresinahc/hackerclube/add-logo-thc-readme/thc.png)
 
 # Teresina Hacker Clube #
 Projeto de construção e manutenção de um hackerspace.
